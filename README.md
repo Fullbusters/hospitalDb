@@ -35,3 +35,8 @@ Beck end частина - на javascript ( nodejs ) чи на java (Spring boot
       Знизу є поле для введення нових коментарів, та кнопка + для збереження їх.
       При натисканні на кнопку delete пацієнт видаляється з списку.
       При натисканні на Cancel  редагування чи додавання нового пацієнта.
+      
+      
+      https://webhospitaldb.herokuapp.com/patients
+      
+      https://hospitalfront.herokuapp.com/
